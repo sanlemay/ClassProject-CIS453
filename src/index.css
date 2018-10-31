@@ -24,8 +24,9 @@ ul.header li a {
   display: inline-block;
 }
 .content {
-  background-color: #FFF;
-  padding: 20px;
+  background-color: #566805;
+  border-radius: 15px;
+  padding: 15px;
 }
 .content h2 {
   padding: 0;
@@ -38,6 +39,8 @@ ul.header li a {
 .content li {
   margin-bottom: 10px;
 }
-.active {
-  background-color: #000000;
-}
+
+
+
+
+

@@ -49,12 +49,12 @@
 }
 
 .aboutframe-fairfield_county_animal_shelter_is_a_no_kill_shelter_that_is_affiliated_with_fairfield_county_animal_control_and_is_located_in_winnsboro_south_carolina_-1 {
-    width: 513px;
+    width: 500px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #000000;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 17px;
+    line-height: 19px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;
@@ -99,8 +99,8 @@
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #000000;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 17px;
+    line-height: 19px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;
@@ -287,11 +287,11 @@
 }
 
 .aboutframe-get_adoption_application_here_-8 {
-    width: 402px;
+    width: 402px;   
     flex-shrink: 0;
     cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: rgb(249, 2, 2);
+    color:red;
     font-size: 25px;
     line-height: 28px;
     letter-spacing: 0px;
@@ -315,8 +315,8 @@
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: rgb(17, 16, 16);
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 15px;
+    line-height: 17px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;

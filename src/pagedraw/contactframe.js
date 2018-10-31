@@ -55,7 +55,8 @@ export default class Contactframe extends React.Component {
                                               You can also 
                                           </div>
                                           <div className="contactframe-email_us_-9">
-                                          <a href= "mailto:bob.innes@fairfield.sc.gov">email us!</a></div>
+                                         
+                                          <a href= "mailto:bob.innes@fairfield.sc.gov"> <font size = "5">email us!</font></a></div>
                                       </div>
                                   </div>
                               </div>

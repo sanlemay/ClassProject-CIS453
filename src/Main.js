@@ -8,6 +8,10 @@ import Home from "./Home";
 import About from "./About";
 import Contact from "./Contact";
 import Help from "./Help";
+
+
+
+
 class Main extends Component {
   render() {
     return (
@@ -27,8 +31,17 @@ class Main extends Component {
             <Route path="/help" component={Help}/>
           </div>
         </div>
+        
       </BrowserRouter>
+
+  
+     
     );
+    
   }
+ 
 }
+
+
+
 export default Main;
