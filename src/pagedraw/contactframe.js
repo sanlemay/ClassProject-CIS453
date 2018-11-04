@@ -33,7 +33,12 @@ export default class Contactframe extends React.Component {
                               <div className="contactframe-1">
                                   <div>1678 Hwy 321 Business North</div>
                                   <div>Winnsboro, SC 29180</div>
-                              </div>
+                                  <div className="clickmap">
+                                  <div> <p></p>Click map to get directions.</div>
+                                  
+                                    </div>
+                </div>
+                              
                           </div>
                           <div className="contactframe-0-0-0-0-5">
                               <div className="contactframe-send_a_letter_or_package_to_-1">
@@ -57,6 +62,8 @@ export default class Contactframe extends React.Component {
                                           <div className="contactframe-email_us_-9">
                                          
                                           <a href= "mailto:bob.innes@fairfield.sc.gov"> <font size = "5">email us!</font></a></div>
+                                          <p></p>
+                                         
                                       </div>
                                   </div>
                               </div>
@@ -64,6 +71,8 @@ export default class Contactframe extends React.Component {
                       </div>
                   </div>
               </div>
+              <div>
+                                </div>
               <div className="contactframe-0-1">
                   <div className="contactframe-0-1-0">
                       <div className="contactframe-0-1-0-0">
