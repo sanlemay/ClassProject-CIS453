@@ -39,7 +39,7 @@ export default class Aboutframe extends React.Component {
                               </div>
                           </div>
                           <div className="aboutframe-available_pets_-5">
-                              Available Pets
+                              Find available pets at
                           </div>
                       </div>
                   </div>
@@ -70,8 +70,9 @@ export default class Aboutframe extends React.Component {
               </div>
               <div className="aboutframe-4-1">
                   <div className="aboutframe-4-1-0">
-                      <div className="aboutframe-get_adoption_application_here_-8">
+                      <div className="adoptframe-AdoptionApplication">
                        <a href="http://www.fairfieldsc.com/_fileUploads/adoption%20application%202.pdf" target="_blank">
+                     
                        Get Adoption Application Here.</a>  
                       </div>
                   </div>
